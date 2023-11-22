@@ -9,12 +9,12 @@ It is designed as a communication page. The user can send mail by pressing the s
 
 ### Application Screen 
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-11-22 at 17 20 01](https://github.com/bahtinursinik/Contact-Form/assets/56718602/00a0d5a6-021b-4091-90c3-331eff5c6919)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-11-22 at 17 20 01](https://github.com/bahtinursinik/Contact-Form/assets/56718602/dfead31e-968a-4d55-926b-593b2d30fb33)
 
 ### EmailJS Screen
 
-![Screen Shot 2023-11-22 at 12 19 51](https://github.com/bahtinursinik/Contact-Form/assets/56718602/f52784ed-48c1-4fda-89ad-e9a472bd9122)
+![Screen Shot 2023-11-22 at 12 19 51](https://github.com/bahtinursinik/Contact-Form/assets/56718602/fce6421d-60a9-43ba-8e72-0c9cd0b089ad)
 
 ### Gmail Screen
 
-![WhatsApp Image 2023-11-22 at 17 37 40](https://github.com/bahtinursinik/Contact-Form/assets/56718602/18c0b263-0973-4f9c-a7d0-16aa7535c518)
+![WhatsApp Image 2023-11-22 at 17 37 40](https://github.com/bahtinursinik/Contact-Form/assets/56718602/5bad33f8-8888-42bc-a755-84414af74d29)
